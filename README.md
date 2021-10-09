@@ -1,1 +1,1 @@
-This repository contain
+This repository contains code generated automatically by https://github.com/daddykotex/blog-sbt.
