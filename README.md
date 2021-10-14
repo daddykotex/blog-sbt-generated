@@ -1,1 +1,0 @@
-This repository contains code generated automatically by https://github.com/daddykotex/blog-sbt.
